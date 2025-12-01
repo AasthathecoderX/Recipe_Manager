@@ -1,0 +1,65 @@
+# Gradle
+.gradle/
+build/
+*/build/
+
+# Local configuration
+local.properties
+
+# Log files
+*.log
+
+# Android Studio / IntelliJ
+.idea/
+*.iml
+*.iws
+*.ipr
+.idea/caches/
+.idea/libraries/
+.idea/modules.xml
+.idea/workspace.xml
+.idea/gradle.xml
+
+# Captures
+captures/
+
+# External native build
+.externalNativeBuild/
+
+# Google services / Firebase
+google-services.json
+app/google-services.json
+
+# APK / AAB / build outputs
+*.apk
+*.ap_
+*.aab
+
+# Dex / class files
+*.dex
+*.class
+
+# Generated folders (old tools)
+bin/
+gen/
+
+# NDK build (if any)
+obj/
+ndkBuild/
+.cxx/
+
+# Fastlane
+fastlane/report.xml
+fastlane/Preview.html
+fastlane/screenshots
+fastlane/test_output
+fastlane/readme.md
+
+# Freeline
+freeline.py
+freeline/
+freeline_project_description.json
+
+# OS-specific junk
+.DS_Store
+Thumbs.db
