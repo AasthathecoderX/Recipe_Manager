@@ -64,7 +64,7 @@ fun Folders(
     var selectedFolderIndex by remember { mutableStateOf(-1) }
 
     val database = FirebaseDatabase
-        .getInstance("https://recipe-manager-91957-default-rtdb.asia-southeast1.firebasedatabase.app/")
+        .getInstance("https://YOUR-PROJECT-ID-default-rtdb.asia-southeast1.firebasedatabase.app/")  #Replace with your database URL
         .reference
     val userFoldersRef = database.child("users").child(currentUser.uid).child("folders")
 
