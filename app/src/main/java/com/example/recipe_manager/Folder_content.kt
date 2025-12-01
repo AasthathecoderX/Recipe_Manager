@@ -57,7 +57,7 @@ fun FolderContent(
     }
 
     val database = FirebaseDatabase
-        .getInstance("https://recipe-manager-91957-default-rtdb.asia-southeast1.firebasedatabase.app/")
+        .getInstance("https://YOUR-PROJECT-ID-default-rtdb.asia-southeast1.firebasedatabase.app/") #Replace with your database URl
         .reference
     val recipesRef = database
         .child("users")
