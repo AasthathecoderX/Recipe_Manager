@@ -81,9 +81,9 @@
 - `util/PreferencesHelper.kt` – “remember me” credential storage 💡  
 
 ## Screenshots 📸
-![Frontpage](https://github.com/user-attachments/assets/7c45da4e-4692-4d77-a4e7-66fe7c681681)
+<img src="screenshots/Frontpage.jpeg" width="200"/>
+<img src="screenshots/Login.jpeg" width="200"/>
+<img src="screenshots/Folders.jpeg" width="200"/>
 
-![Login](https://github.com/user-attachments/assets/f14bfcd5-3422-4443-ad13-09827bcec6f9)
 
-![Folder](https://github.com/user-attachments/assets/a5f2dad4-f290-4b95-a929-6fa8b9d5a303)
 
