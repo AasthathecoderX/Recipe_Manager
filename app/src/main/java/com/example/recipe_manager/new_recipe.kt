@@ -38,7 +38,7 @@ fun NewRecipe(
     val recipeRef = remember(currentUser, folderName, recipeTitle) {
         if (currentUser != null) {
             FirebaseDatabase
-                .getInstance("https://recipe-manager-91957-default-rtdb.asia-southeast1.firebasedatabase.app/")
+                .getInstance("https://YOUR-PROJECT-ID-default-rtdb.asia-southeast1.firebasedatabase.app/") # Replace with your database URL
                 .reference
                 .child("users")
                 .child(currentUser.uid)
