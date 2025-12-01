@@ -81,9 +81,17 @@
 - `util/PreferencesHelper.kt` – “remember me” credential storage 💡  
 
 ## Screenshots 📸
-<img src="screenshots/Frontpage.jpeg" width="200"/>
-<img src="screenshots/Login.jpeg" width="200"/>
-<img src="screenshots/Folders.jpeg" width="200"/>
+<table>
+  <tr>
+    <td><img src="screenshots/Frontpage.jpeg" width="400"/></td>
+    <td><img src="screenshots/Login.jpeg" width="400"/></td>
+  </tr>
+  <tr>
+    <td><img src="screenshots/Folders.jpeg" width="400"/></td>
+    <td></td>
+  </tr>
+</table>
+
 
 
 
